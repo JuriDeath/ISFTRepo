@@ -92,5 +92,5 @@ a = 9
 b = 8
 c = 7
 d = 6
-#x = a + b + ( c / d ) + ( ( a / ( b - c ) ) / ( a / ( b + c ) ) ) DIVIDE POR CERO
+# x = a + b + ( c / d ) + ( ( a / ( b - c ) ) / ( a / ( b + c ) ) ) DIVIDE POR CERO
 print "El resultado de la decimo ecuacion es: NO TIENE PORQUE DIVIDE POR CERO"
